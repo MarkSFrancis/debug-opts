@@ -1,0 +1,6 @@
+{
+  "name": "debug-opts",
+  "scripts": {
+    "start": "node ./index.js"
+  }
+}
